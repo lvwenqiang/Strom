@@ -8,4 +8,3 @@ version
 
 sublime
 
-Git tracks changes.
