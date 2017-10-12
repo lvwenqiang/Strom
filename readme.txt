@@ -7,3 +7,5 @@ Git is free software.
 version
 
 sublime
+
+samba
