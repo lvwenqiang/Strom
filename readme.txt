@@ -8,4 +8,4 @@ version
 
 sublime
 
-samba
+Git tracks changes.
